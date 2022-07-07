@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "conventional-commit-types": "^3",
-    "git-rev-sync": "^2",
+    "git-rev-sync": "^3",
     "lodash.compact": "^3",
     "lodash.find": "^4",
     "lodash.get": "^4",
