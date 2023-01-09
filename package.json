@@ -67,7 +67,7 @@
     "@types/lodash.padend": "^4",
     "@types/node": "10.*",
     "commitizen": "^4",
-    "husky": "^4",
+    "husky": "^8",
     "jest": "^26",
     "lint-staged": "^10",
     "prettier": "^2",
